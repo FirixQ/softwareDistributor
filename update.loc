@@ -1,0 +1,3 @@
+0.0.2:/file/example.txt,/file/anotherfile.txt
+0.0.1:/example.txt
+version : files to send seperated by comma's
